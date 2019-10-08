@@ -4,7 +4,9 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		System.out.println("hello java welcome git in eclipse");
+		int a=25;
+		System.out.println(a+"hello java welcome git in eclipse");
+	
 	}
 
 }
